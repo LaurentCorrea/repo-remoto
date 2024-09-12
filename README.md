@@ -1,3 +1,3 @@
-# Repositorio Remoto 
+# Repositorio Remoto Depois do Clone
 
-Commit antes do Clone
+Cescrição inserida no repositorio remoto depois do clone.
